@@ -1,0 +1,89 @@
+Age,Gender,Occupation,Use Social Media (Y/N),Soical Media Platforms Used,Average time on social media (per Day),How often do you find yourself using Social media without a specific purpose?,How often do you get distracted by Social media when you are busy doing something?,Do you feel restless if you haven't used Social media in a while?,"On a scale of 1 to 5, how easily distracted are you?","On a scale of 1 to 5, how much are you bothered by worries?",Do you find it difficult to concentrate on things?,"On a scale of 1-5, how often do you compare yourself to other successful people through the use of social media?","Following the previous question, how do you feel about these comparisons, generally speaking?",How often do you look to seek validation from features of social media?,How often do you feel depressed or down?,"On a scale of 1 to 5, how frequently does your interest in daily activities fluctuate?","On a scale of 1 to 5, how often do you face issues regarding sleep?"
+5,22.0,Female,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Pinterest, TikTok",Between 2 and 3 hours,4,4,2,3,4,3,4,4,3,3,2
+6,21.0,Female,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, TikTok",Between 3 and 4 hours,4,3,2,2,4,3,5,3,4,5,5
+11,21.0,Female,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,4,4,2,5,3,4,2,2,3,3,4
+21,23.0,Male,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, TikTok",More than 5 hours,3,2,4,2,4,2,5,2,1,3,3
+28,22.0,Female,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 4 and 5 hours,3,4,3,4,5,4,4,3,2,4,4
+32,24.0,Male,Salaried Worker,Yes,"Facebook, Instagram, YouTube, TikTok",Between 2 and 3 hours,3,3,3,3,3,4,2,3,3,2,3
+50,22.0,Female,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,4,4,3,4,3,2,1,3,3,3,4
+55,27.0,Male,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Reddit, TikTok",More than 5 hours,2,5,5,4,4,5,3,3,4,5,2
+58,22.0,Female,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 2 and 3 hours,4,5,2,4,4,4,3,3,4,5,4
+66,21.0,Male,University Student,Yes,"Facebook, Instagram, Reddit, TikTok",Between 3 and 4 hours,5,5,5,5,5,5,5,2,4,4,4
+67,18.0,Non-binary,School Student,Yes,"Twitter, Instagram, YouTube, Reddit, TikTok",Between 2 and 3 hours,2,1,2,3,5,3,2,3,2,4,2
+72,14.0,Female,School Student,Yes,"Twitter, Instagram, YouTube, Snapchat, Reddit, Pinterest, TikTok",More than 5 hours,4,4,2,2,4,2,4,2,4,4,4
+77,21.0,Female,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,4,3,4,4,5,4,5,1,2,4,4
+93,17.0,unsure ,School Student,Yes,"Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",Between 4 and 5 hours,4,4,3,4,2,4,3,2,2,3,3
+99,16.0,Male,School Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 4 and 5 hours,4,5,2,5,3,4,3,1,4,2,1
+106,23.0,Female,University Student,Yes,"Facebook, Instagram, TikTok",Between 2 and 3 hours,3,2,2,4,2,2,1,3,3,3,4
+118,23.0,Female,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",More than 5 hours,5,5,5,5,5,4,5,5,4,5,4
+121,20.0,Female,University Student,Yes,"Facebook, Instagram, YouTube, TikTok",Between 3 and 4 hours,4,3,1,2,4,2,4,2,1,3,3
+127,23.0,Female,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,3,2,4,3,5,3,5,1,4,4,2
+161,48.0,Male,Salaried Worker,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Less than an Hour,3,1,1,1,1,1,5,3,2,1,5
+164,47.0,Male,Salaried Worker,Yes,"Twitter, Instagram, YouTube, Reddit, TikTok",Between 2 and 3 hours,3,2,3,5,5,5,2,5,2,3,2
+170,20.0,Male,University Student,Yes,"Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",More than 5 hours,5,5,5,4,2,4,3,3,1,3,3
+175,47.0,Male,Salaried Worker,Yes,"Twitter, Instagram, YouTube, Reddit, TikTok",Between 2 and 3 hours,4,3,3,2,4,3,1,2,1,1,2
+182,47.0,Male,Salaried Worker,Yes,"Facebook, YouTube, TikTok",Less than an Hour,3,1,1,2,4,2,3,3,2,1,2
+183,25.0,Female,Salaried Worker,Yes,"Facebook, Twitter, Instagram, YouTube, Reddit, Pinterest, TikTok",Between 4 and 5 hours,3,4,5,4,5,4,2,4,4,5,3
+184,22.0,Female,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",More than 5 hours,5,5,4,5,4,3,2,3,3,3,4
+191,19.0,Female,School Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 2 and 3 hours,3,4,3,3,3,3,3,5,3,4,3
+203,21.0,Male,University Student,Yes,"Facebook, Instagram, YouTube, Discord, Reddit, TikTok",Between 3 and 4 hours,4,5,3,5,5,5,5,2,4,3,5
+205,20.0,Male,School Student,Yes,"Instagram, Discord, Reddit, Pinterest, TikTok",Between 2 and 3 hours,3,2,3,2,3,2,3,2,3,2,1
+209,20.0,Female,University Student,Yes,"Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,2,1,1,2,5,3,5,4,3,4,3
+212,34.0,Male,Salaried Worker,Yes,"Facebook, YouTube, TikTok",More than 5 hours,5,3,2,3,3,4,4,4,5,5,5
+225,22.0,Female,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, TikTok",More than 5 hours,2,5,3,3,3,4,5,3,3,2,4
+234,23.0,Male,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, TikTok",More than 5 hours,4,4,3,5,4,4,4,2,1,4,4
+235,22.0,Female,Salaried Worker,Yes,"Instagram, YouTube, Discord, Reddit, TikTok",More than 5 hours,5,4,4,4,4,3,4,4,4,4,5
+237,22.0,Female,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",Between 2 and 3 hours,5,5,3,5,5,2,3,1,2,5,3
+240,22.0,Female,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, TikTok",Between 4 and 5 hours,4,2,1,5,4,3,5,1,4,4,4
+241,23.0,Male,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,3,4,2,5,5,5,5,4,4,2,3
+252,25.0,Male,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 4 and 5 hours,4,5,2,5,1,5,2,3,4,5,1
+258,23.0,Female,University Student,Yes,"Facebook, Instagram, YouTube, TikTok",More than 5 hours,3,3,2,3,3,4,3,3,4,4,3
+261,21.0,Female,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 2 and 3 hours,3,3,2,3,5,4,3,3,3,5,5
+263,22.0,Male,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, Pinterest, TikTok",More than 5 hours,4,4,3,4,2,4,4,3,4,3,4
+268,20.0,Female,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,4,5,3,5,5,5,2,3,1,3,4
+270,19.0,Female,School Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",More than 5 hours,3,2,1,5,2,3,1,3,1,2,1
+271,20.0,Female,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",More than 5 hours,4,5,5,5,5,5,5,1,4,5,5
+272,22.0,Female,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,5,4,3,4,4,3,2,3,4,3,3
+275,21.0,Female,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 3 and 4 hours,5,4,2,5,5,4,4,3,3,5,5
+280,23.0,Male,University Student,Yes,"Facebook, Instagram, YouTube, Discord, Pinterest, TikTok",More than 5 hours,4,3,3,4,5,4,5,4,4,3,4
+283,20.0,Male,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",More than 5 hours,4,5,3,2,5,3,4,2,1,5,4
+292,21.0,Female,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,4,5,3,4,4,5,2,3,3,4,5
+293,20.0,Female,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, TikTok",Between 2 and 3 hours,4,4,4,4,4,4,5,5,4,5,5
+303,30.0,Female,Salaried Worker,Yes,"Facebook, TikTok",Between 2 and 3 hours,4,5,4,3,3,5,4,3,1,4,4
+305,22.0,Male,Salaried Worker,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",Between 4 and 5 hours,4,5,4,5,5,4,3,3,3,3,4
+312,17.0,Female,School Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,2,5,4,5,3,5,2,2,3,2,4
+314,22.0,Female,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, TikTok",More than 5 hours,5,1,4,1,4,4,3,4,2,4,5
+318,22.0,Female,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,5,5,5,5,5,5,5,1,4,5,5
+320,21.0,Female,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, TikTok",More than 5 hours,3,4,5,4,5,4,5,5,3,5,4
+325,21.0,Non binary ,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Reddit, Pinterest, TikTok",More than 5 hours,4,2,3,5,5,4,4,3,5,5,5
+328,21.0,Female,University Student,Yes,"Facebook, Instagram, Snapchat, Pinterest, TikTok",Between 2 and 3 hours,4,4,1,3,2,2,2,2,2,4,3
+329,23.0,Male,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 2 and 3 hours,5,4,3,5,4,5,3,2,2,4,4
+330,19.0,Male,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,4,2,2,2,3,1,2,5,1,1,3
+333,25.0,Female,University Student,Yes,"Facebook, Instagram, YouTube, Pinterest, TikTok",More than 5 hours,5,5,4,4,5,1,2,2,3,5,2
+343,21.0,Male,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 1 and 2 hours,4,4,3,3,5,2,4,2,2,2,4
+344,19.0,Female,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",More than 5 hours,3,5,4,3,5,4,1,5,1,5,5
+347,22.0,Female,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,5,5,3,4,4,4,4,1,1,4,2
+354,19.0,Male,School Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",Between 4 and 5 hours,3,3,2,2,3,2,2,1,3,2,2
+358,22.0,Female,University Student,Yes,"Twitter, Instagram, TikTok",More than 5 hours,5,5,5,4,4,4,2,3,2,3,4
+360,19.0,Male,School Student,Yes,"Facebook, Instagram, YouTube, TikTok",Between 4 and 5 hours,3,3,4,3,3,3,4,3,3,3,3
+365,23.0,Female,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,5,4,2,4,5,5,5,1,4,5,2
+369,27.0,Female,Salaried Worker,Yes,"Facebook, Instagram, Snapchat, Discord, Pinterest, TikTok",Between 3 and 4 hours,3,3,3,3,4,4,4,4,3,5,3
+375,24.0,Female,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 4 and 5 hours,3,2,2,3,5,3,5,2,3,5,5
+376,21.0,Male,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,3,2,2,3,4,3,1,3,2,5,2
+380,29.0,Female,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,5,5,3,5,4,5,5,3,3,5,5
+383,24.0,Male,Salaried Worker,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 1 and 2 hours,3,4,1,3,3,2,3,3,4,5,3
+386,23.0,Male,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 4 and 5 hours,5,5,2,4,5,3,5,3,2,3,3
+388,21.0,Female,University Student,Yes,"Twitter, Instagram, YouTube, TikTok",Between 2 and 3 hours,3,4,3,4,4,4,5,1,2,4,4
+389,20.0,Female,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,5,5,5,5,5,5,2,3,2,4,4
+394,20.0,Female,School Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",More than 5 hours,5,4,2,3,3,2,1,3,3,2,2
+402,26.0,Male,University Student,Yes,"Facebook, Instagram, YouTube, Reddit, Pinterest, TikTok",More than 5 hours,5,4,3,4,4,4,3,3,2,3,4
+408,20.0,Female,University Student,Yes,"Facebook, Instagram, TikTok",Between 4 and 5 hours,4,5,5,5,5,5,2,2,1,4,5
+415,18.0,Male,School Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,4,5,4,5,5,4,4,3,3,5,3
+417,18.0,Female,School Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Reddit, Pinterest, TikTok",Between 3 and 4 hours,5,3,4,3,4,4,1,3,1,3,5
+423,20.0,Male,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",More than 5 hours,4,5,3,4,5,4,5,2,4,4,4
+429,21.0,Female,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,4,5,4,4,5,5,5,1,3,5,4
+437,27.0,Female,Salaried Worker,Yes,"Facebook, Instagram, YouTube, Reddit, TikTok",Between 4 and 5 hours,4,3,3,4,3,3,4,2,4,2,1
+439,23.0,Male,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",Between 4 and 5 hours,4,3,2,4,4,3,4,4,4,4,3
+446,22.0,Female,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",Between 3 and 4 hours,3,5,3,5,5,5,5,3,3,5,4
+452,22.0,Female,Salaried Worker,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,1,1,1,5,3,5,1,1,1,3,4
+470,20.0,Female,University Student,Yes,"Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 1 and 2 hours,2,2,1,3,5,3,5,1,2,5,4
